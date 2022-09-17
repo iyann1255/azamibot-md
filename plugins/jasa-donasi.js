@@ -2,13 +2,13 @@ let handler =  m => m.reply(`
 ╭─「 🧚🏻‍♂️ *DONASI* 」
 │
 ├ PULSA / OVO / DANA / GOPAY :
-├ • *082337245566*
+├ • *089516947204*
 │
 ├ SAWERIA
-├ _https://saweria.co/clicknetcafe_
+├ _https://mez.ink/botwhatsapp_
 │
 ├ Ownerku
-├ _wa.me/6282337245566_
+├ _wa.me/6289516947204_
 │
 ╰───「 ${packname} 」
 `.trim()) // Tambah sendiri kalo mau
